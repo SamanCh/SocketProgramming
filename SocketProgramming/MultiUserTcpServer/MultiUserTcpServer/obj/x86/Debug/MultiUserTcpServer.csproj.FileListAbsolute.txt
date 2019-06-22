@@ -1,0 +1,9 @@
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserTcpServer\MultiUserTcpServer\bin\Debug\MultiUserTcpServer.exe
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserTcpServer\MultiUserTcpServer\bin\Debug\MultiUserTcpServer.pdb
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserTcpServer\MultiUserTcpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserTcpServer\MultiUserTcpServer\obj\x86\Debug\MultiUserTcpServer.exe
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserTcpServer\MultiUserTcpServer\obj\x86\Debug\MultiUserTcpServer.pdb
+C:\Documents and Settings\admin\Desktop\MultiUserTcpServer\MultiUserTcpServer\obj\x86\Debug\MultiUserTcpServer.exe
+C:\Documents and Settings\admin\Desktop\MultiUserTcpServer\MultiUserTcpServer\obj\x86\Debug\MultiUserTcpServer.pdb
+F:\MultiUserTcpServer\MultiUserTcpServer\obj\x86\Debug\MultiUserTcpServer.exe
+F:\MultiUserTcpServer\MultiUserTcpServer\obj\x86\Debug\MultiUserTcpServer.pdb

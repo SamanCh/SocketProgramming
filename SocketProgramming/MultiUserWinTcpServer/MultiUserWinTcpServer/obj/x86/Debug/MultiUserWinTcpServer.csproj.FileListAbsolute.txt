@@ -1,0 +1,9 @@
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserWinTcpServer\MultiUserWinTcpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserWinTcpServer\MultiUserWinTcpServer\obj\x86\Debug\MultiUserWinTcpServer.Form1.resources
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserWinTcpServer\MultiUserWinTcpServer\obj\x86\Debug\MultiUserWinTcpServer.Properties.Resources.resources
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserWinTcpServer\MultiUserWinTcpServer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserWinTcpServer\MultiUserWinTcpServer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserWinTcpServer\MultiUserWinTcpServer\bin\Debug\MultiUserWinTcpServer.exe
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserWinTcpServer\MultiUserWinTcpServer\bin\Debug\MultiUserWinTcpServer.pdb
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserWinTcpServer\MultiUserWinTcpServer\obj\x86\Debug\MultiUserWinTcpServer.exe
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\MultiUserWinTcpServer\MultiUserWinTcpServer\obj\x86\Debug\MultiUserWinTcpServer.pdb

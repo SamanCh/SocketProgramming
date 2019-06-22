@@ -1,0 +1,5 @@
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\SimpleUdpServer\SimpleUdpServer\bin\Debug\SimpleUdpServer.exe
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\SimpleUdpServer\SimpleUdpServer\bin\Debug\SimpleUdpServer.pdb
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\SimpleUdpServer\SimpleUdpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\SimpleUdpServer\SimpleUdpServer\obj\x86\Debug\SimpleUdpServer.exe
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\SimpleUdpServer\SimpleUdpServer\obj\x86\Debug\SimpleUdpServer.pdb

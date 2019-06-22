@@ -1,0 +1,9 @@
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\SimpleUdpClient\SimpleUdpClient\bin\Debug\SimpleUdpClient.exe
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\SimpleUdpClient\SimpleUdpClient\bin\Debug\SimpleUdpClient.pdb
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\SimpleUdpClient\SimpleUdpClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\SimpleUdpClient\SimpleUdpClient\obj\x86\Debug\SimpleUdpClient.exe
+c:\documents and settings\admin\my documents\visual studio 2010\Projects\SimpleUdpClient\SimpleUdpClient\obj\x86\Debug\SimpleUdpClient.pdb
+F:\0_Trainig & Accessory\Programing\SocketProgramming\SimpleUdpClient\SimpleUdpClient\obj\x86\Debug\SimpleUdpClient.exe
+F:\0_Trainig & Accessory\Programing\SocketProgramming\SimpleUdpClient\SimpleUdpClient\obj\x86\Debug\SimpleUdpClient.pdb
+F:\0_Trainig & Accessory\Programing\SocketProgramming\SimpleUdpClient\SimpleUdpClient\bin\Debug\SimpleUdpClient.exe
+F:\0_Trainig & Accessory\Programing\SocketProgramming\SimpleUdpClient\SimpleUdpClient\bin\Debug\SimpleUdpClient.pdb
